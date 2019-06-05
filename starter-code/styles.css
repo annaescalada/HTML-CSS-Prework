@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+*{
+  font-family: roboto;
+}
+
+.inline-block {
+  display:inline-block;
+}
+
+.block {
+  display:block;
+}
+.float-right {
+  float:right;
+}
+
+.float-left {
+  float:left;
+}
+
+.clearfix {
+  clear:both;
+}
+
+.center {
+  margin: auto;
+}
+
+p {
+  font-size:17px;
+  line-height: 25px;
+  width:50%;
+  padding: 0 0 20px 0;
+}
+
+a {
+  color:white;
+  text-decoration: none;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 18px;
+  padding-left:10px;
+  height: 40px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.heart {
+  padding: 0 20px 0 10px;
+}
+
+.top-links {
+  padding: 0;
+  margin: 0 20px 0 0; 
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+header {
+  color:white;
+  background-color: rgb(32, 101, 136);
+  background-image: url(/Users/anna/code/lab-html-module-exercise-master/starter-code/images/city-scape.svg);
+  background-size: auto;
+  height:445px;
+  padding:15px;
+}
+
+#logo {
+  width:8%;
+ }
+
+#searchbar {
+  width:81.5%;
+  }
+
+input[type=text] {
+  background-color:rgb(31, 82, 111);
+  color: white;
+  border: 1px grey solid;
+  height: 35px;
+  width: 95%;
+  padding-left:5px;
+  float:left;
+}
+
+button[type=submit] {
+  padding:12px;
+  border:none;
+  background-color:rgb(31, 82, 111);
+  border: 1px grey solid;
+  color:white;
+  float:left;
+}
+
+#login {
+  padding-top:7px;
+}
+
+#amazing {
+  clear: both;
+  width: 80%;
+  padding-top: 30px;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: normal;
+  padding: 20px 0 20px 0;
+}
+
+.amazingp {
+  font-size: 18px;
+}
+
+#amazing-button {
+  background-color: rgb(240, 146, 51);
+  border-radius: 20px;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  border:none;
+  font-size: 18px;
+}
+
+#collaboration-container {
+  background-color: rgb(39, 53, 71);
+}
+
+#collaboration {
+  color:white;
+  padding:90px 0 40px 0;
+  align-content: top;
+  width:85%;
+}
+
+#collaboration-text {
+  padding-left:40px;
+}
+
+#collaboration-text ul {
+  line-height: 30px;
+  font-size: 20px;
+  padding: 0px 0 0px 50px;
+}
+
+h2 {
+  font-size: 35px;
+  width:70%;
+  font-weight: normal;
+  padding: 0 0 20px 0;
+}
+
+#collaboration-button {
+  background-color: rgb(203, 56, 55);
+  border-radius: 20px;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  border:none;
+  font-size: 18px;
+}
+
+#collaboration-learn {
+  padding-top:20px;
+}
+
+#whatis {
+  color:white;
+  background-color: rgb(32, 101, 136);
+  background-image: url(/Users/anna/code/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+  background-size: auto;
+  height:500px;
+}
+
+#whatis-text {
+  padding-top:70px;
+  width:85%;
+}
+
+#whatis-text p{
+  width:30%;
+}
+
+#whatis-button {
+  background-color: rgb(49, 68, 88);
+  border-radius: 20px;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  border:none;
+  font-size: 18px;
+}
+
+.dark-grey {
+  color:#585858;
+}
+
+.light-grey {
+  color:#848484;
+}
+
+#whatcan {
+  padding: 30px 0 30px 0;
+  width:85%;
+}
+
+#whatcan p {
+  text-align:center;
+  width:100%;
+}
+h3 {
+  text-align: center;
+  font-size: 28px;
+  font-weight:550;
+}
+
+h4 {
+  text-align: center;
+  font-size: 20px;
+  font-weight:550;
+}
+
+.red {
+  color:red;
+}
+
+.col {
+  width:30%;
+}
+
+.col-middle {
+  width:30%;
+  padding: 0 5% 0 5%;
+}
+
+.center-image {
+  display:block;
+  margin:auto;
+}
+
