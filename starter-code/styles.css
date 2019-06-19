@@ -108,7 +108,7 @@ nav a {
 header {
   color:white;
   background-color: rgb(32, 101, 136);
-  background-image: url(/Users/anna/code/lab-html-module-exercise-master/starter-code/images/city-scape.svg);
+  background-image: url(images/city-scape.svg);
   background-size: auto;
   height:445px;
   padding:15px;
@@ -191,7 +191,7 @@ input[type=text] {
 #whatis {
   color:white;
   background-color: rgb(32, 101, 136);
-  background-image: url(/Users/anna/code/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+  background-image: url(images/forklift.svg);
   background-size: auto;
   height:500px;
 }
